@@ -1,0 +1,14 @@
+# Telegram Bot Core Framework
+python-telegram-bot[job-queue]==21.10
+
+# High-Performance Asynchronous HTTP Client & Server Support
+httpx==0.28.1
+httpcore==1.0.7
+
+# SSL & Security Support (Required for secure HTTPS connections)
+certifi==2025.1.31
+cryptography==44.0.1
+idna==3.10
+sniffio==1.3.1
+h11==0.14.0
+httpcore==1.0.7
